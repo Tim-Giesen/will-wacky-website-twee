@@ -1,4 +1,1 @@
-# Will's Wacky website - static version
-## Personal website for fork testing
-
-Fork, download and destroy
+Already had one of a similar name so here goes.
